@@ -15,11 +15,11 @@ html,body{
 
 }
 .pimg2{
-    background-image: url(images/2nd.jpg);
+    background-image: url(2nd.jpg);
     min-height: 400px;
 }
 .pimg3{
-    background-image: url(images/3rd.jpg);
+    background-image: url(3rd.jpg);
     min-height: 400px;
 }
 
@@ -32,7 +32,7 @@ html,body{
     border-radius: 5px;
 }
 .pimg4{
-    background-image: url(images/1st.jpg);
+    background-image: url(1st.jpg);
     min-height: 100%;
 }
 .ptext{
